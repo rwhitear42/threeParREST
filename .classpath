@@ -2,5 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/rwhitear/Documents/Eclipse/threeParREST/lib/apache-commons-httpclient/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/rwhitear/Documents/Eclipse/threeParREST/lib/apache-commons-httpclient/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rwhitear/Documents/Eclipse/threeParREST/lib/apache-commons-httpclient/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rwhitear/Documents/Eclipse/threeParREST/lib/apache-commons-httpclient/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rwhitear/Documents/Eclipse/threeParREST/lib/apache-commons-httpclient/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rwhitear/Documents/Eclipse/threeParREST/lib/gson/google-gson.jar"/>
+	<classpathentry kind="lib" path="/Users/rwhitear/Documents/Eclipse/threeParREST/lib/ucsd-httprequest/httpRequest-ucsd-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rwhitear/Documents/Eclipse/threeParREST/lib/ucsd-oa-sdk/ucsd-oa-api.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
